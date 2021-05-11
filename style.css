@@ -1,0 +1,58 @@
+html{
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.ilkbolum {
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    padding: 0.3em;
+    border: 1px solid black;
+    border-radius: 0.3em;
+}
+
+#anasayfafotolar {
+    text-align: center;
+}
+
+#dogafotolar {
+    text-align: center;
+}
+
+#portrefotolar {
+    text-align: center;
+}
+
+#about {
+    position: relative;
+    
+}
+
+#description {
+    border: 2px solid white;
+    border-radius: 0.3em;
+    position:absolute;
+    top: 18em;
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-size: large;
+    left: 10em;
+    right: 10em;
+}
+
+#description li{
+    list-style-type: none;
+    padding: 0.3em;
+    }
+
+#description li a{
+    color: white;
+    
+}
+
+
+
+
