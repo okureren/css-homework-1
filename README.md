@@ -1,9 +1,9 @@
-# Patika Dev CSS Patikası "Ödev1"
+# Patika Dev CSS Homework-1"
 
 Y. Eren Okur
 | [Linkedin](https://www.linkedin.com/in/eren0kur/)
 
 
-## Açıklama:
+## Description
 
- [Patika](https://www.patika.dev/) adresindeki, Front-End Eğitimi, CSS Patikası içerisindeki ilk ödev.
+ First CSS Homework [Patika](https://www.patika.dev/).
